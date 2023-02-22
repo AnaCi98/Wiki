@@ -1,1 +1,1 @@
-`[nombre del enlace](index.md)`
+[nombre del enlace](index.md)
