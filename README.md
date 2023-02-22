@@ -8,3 +8,5 @@ Al final de este repositorio, estarás familiarizado con todas las característi
 
 Temario
 - [Introducción a ECS](introducción-ecs.md)
+- [¿Cómo utilizar AWS ECS?](how-to.md)
+- [Ventajas al utilizar ECS](ventajas-ecs.md)
