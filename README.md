@@ -6,9 +6,11 @@ AWS Elastic Container Service (ECS) is a highly scalable and secure container se
 
 By the end of this repository, you'll be familiar with all the features of AWS ECS and will be able to use this service to run and manage containerized applications efficiently and reliably in the AWS Cloud. So read on to find out everything you need to know about AWS ECS!
 
+![AWS ECS logo](/images/aws-ecs.png)
+
 Topics:
 - [Introduction to ECS](introduction-ecs.md)
 - [How to use AWS ECS?](how-to.md)
 - [Advantages of AWS ECS](advantages-ecs.md)
  
- trial
+
