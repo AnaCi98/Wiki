@@ -8,7 +8,7 @@ By the end of this repository, you'll be familiar with all the features of AWS E
 
 ![AWS ECS logo](/images/aws-ecs.png)
 
-Topics:
+###  Topics:
 - [Introduction to ECS](introduction-ecs.md)
 - [How to use AWS ECS?](how-to.md)
 - [Advantages of AWS ECS](advantages-ecs.md)
