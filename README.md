@@ -2,7 +2,7 @@
 
 ### Índice
 - [Introducción a ECS](introduccion-a-ecs.md)
-- [¿Cómo usar ECS?](cómo-usar.md)
+- [¿Cómo usar ECS?](como-usar.md)
 - [Ventajas de usar AWS ECS](ventajas-ecs.md)
 
 El propósito de este repositorio es presentarle AWS ECS. Aprenderá qué es, cómo funciona, sus ventajas y mucho más. Cubriremos todas las características clave de AWS ECS, desde la creación de clústeres hasta la configuración de servicios y tareas.
