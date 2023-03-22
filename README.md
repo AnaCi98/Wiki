@@ -1,16 +1,16 @@
 # ECS
 
-The purpose of this repository is to introduce you to AWS ECS. You will learn what it is, how it works, its advantages, and much more. We'll cover all the key features of AWS ECS, from creating clusters to configuring services and tasks.
+El propósito de este repositorio es presentarle AWS ECS. Aprenderá qué es, cómo funciona, sus ventajas y mucho más. Cubriremos todas las características clave de AWS ECS, desde la creación de clústeres hasta la configuración de servicios y tareas.
 
-AWS Elastic Container Service (ECS) is a highly scalable and secure container service that lets you run and manage containerized applications. With ECS, developers can create container clusters and deploy their applications in a highly available and scalable cloud environment.
+AWS Elastic Container Service (ECS) es un servicio de contenedor altamente escalable y seguro que le permite ejecutar y administrar aplicaciones en contenedores. Con ECS, los desarrolladores pueden crear clústeres de contenedores e implementar sus aplicaciones en un entorno de nube escalable y de alta disponibilidad.
 
-By the end of this repository, you'll be familiar with all the features of AWS ECS and will be able to use this service to run and manage containerized applications efficiently and reliably in the AWS Cloud. So read on to find out everything you need to know about AWS ECS!
+Al final de este repositorio, estará familiarizado con todas las características de AWS ECS y podrá utilizar este servicio para ejecutar y administrar aplicaciones en contenedores de manera eficiente y confiable en la nube de AWS. ¡Así que siga leyendo para descubrir todo lo que necesita saber sobre AWS ECS!
 
 ![AWS ECS logo](/images/aws-ecs.png)
 
 ###  Topics:
-- [Introduction to ECS](introduction-ecs.md)
-- [How to use AWS ECS?](how-to.md)
-- [Advantages of AWS ECS](advantages-ecs.md)
+- [Introducción a ECS](introduccion-a-ecs.md)
+- [¿Cómo usar ECS?](cómo-usar.md)
+- [Ventajas de usar AWS ECS](ventajas-ecs.md)
  
 
