@@ -12,6 +12,7 @@ Cubriremos todas las características clave de AWS ECS, desde la creación de cl
 hasta la configuración de servicios y tareas\
 AWS Elastic Container Service (ECS) es un servicio de contenedor altamente escalable \
 y seguro que le permite ejecutar y administrar aplicaciones en contenedores\ 
+
 Con ECS, los desarrolladores pueden crear clústeres de contenedores e implementar \
 sus aplicaciones en un entorno de nube escalable y de alta disponibilidad\
 Al final de este repositorio, estará familiarizado con todas las características \
