@@ -1,5 +1,3 @@
-[pagina anterior](introduccion-a-ecs.md)                                                                                                     [siguiente página](ventajas-ecs.md)
-
 # ¿Cómo utilizar AWS ECS?
 
 Amazon Elastic Container Service es un servicio que \
@@ -47,11 +45,11 @@ y resilientes utilizando los servicios de AWS que ya conoces y en los que confí
 Para utilizar Amazon ECS con Docker, sigue estos pasos:
 
 * Crea un clúster de ECS: \
-* El primer paso es crear un clúster de ECS en la consola de AWS. \
-* Un clúster es un conjunto de instancias EC2 en las que \
-*  se ejecutarán tus contenedores. \
-*  Puedes utilizar la consola de ECS para crear un nuevo clúster \
-*   y especificar los detalles de la instancia EC2 que deseas utilizar.
+El primer paso es crear un clúster de ECS en la consola de AWS. \
+Un clúster es un conjunto de instancias EC2 en las que \
+se ejecutarán tus contenedores. \
+Puedes utilizar la consola de ECS para crear un nuevo clúster \
+y especificar los detalles de la instancia EC2 que deseas utilizar.
 
 * Crea un registro de Docker: \
 Si aún no lo has hecho, crea un registro de Docker en Amazon ECR \
