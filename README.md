@@ -6,7 +6,7 @@
 - [¿Cómo usar ECS?](como-usar.md)
 - [Ventajas de usar AWS ECS](ventajas-ecs.md)
 
-El propósito de este repositorio es presentarle AWS ECS. 
+El propósito de este repositorio es presentarle AWS ECS.
 
 Aprenderá qué es, cómo funciona, \
 sus ventajas y mucho más.
@@ -34,5 +34,3 @@ en la nube de AWS. ¡Así que siga leyendo \
 para descubrir todo lo que necesita saber sobre AWS ECS!
 
 ![AWS ECS logo](/images/aws-ecs.png)
- 
-
