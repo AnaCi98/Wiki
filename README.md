@@ -1,6 +1,7 @@
-## AWS ECS
+# AWS ECS
 
 ### Índice
+
 - [Introducción a ECS](introduccion-a-ecs.md)
 - [¿Cómo usar ECS?](como-usar.md)
 - [Ventajas de usar AWS ECS](ventajas-ecs.md)
